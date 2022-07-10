@@ -12,7 +12,7 @@ Nama Dataset  : Customer Churn
 
 Link Dataset  : https://www.kaggle.com/datasets/barun2104/telecom-churn?datasetId=567482
 
-Problem       : classification
+Problem       : Classification
 
 Final Model   : Random Forest
 
