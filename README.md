@@ -18,4 +18,4 @@ Final Model   : Random Forest
 
 Link Repositori: https://github.com/FaldoFajri/final-project-kelompok-08--Rachmadio-Noval-L.git
 
-Link PPT      : <link presentasi dalam google slides> 
+Link PPT      : https://docs.google.com/presentation/d/1rby_huUvKcAwga9_94vRXvp7uG5UVOjLsa-NaDB3Fzs/edit?usp=sharing
