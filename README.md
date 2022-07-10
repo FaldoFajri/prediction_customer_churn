@@ -5,6 +5,7 @@ Final Project Machine Learning
 Anggota Kelompok:
 - Annisa Dewi Kusuma Wardani
 - Faldo Fajri Afrinanto
+
 Nama Mentor: Rachmadio Noval L.
 Nama Dataset: Customer Churn
 Link Dataset: https://www.kaggle.com/datasets/barun2104/telecom-churn?datasetId=567482
