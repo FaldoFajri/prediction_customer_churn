@@ -6,16 +6,16 @@ Anggota Kelompok:
 - Annisa Dewi Kusuma Wardani
 - Faldo Fajri Afrinanto
 
-Nama Mentor: Rachmadio Noval L.
+Nama Mentor   : Rachmadio Noval L.
 
-Nama Dataset: Customer Churn
+Nama Dataset  : Customer Churn
 
-Link Dataset: https://www.kaggle.com/datasets/barun2104/telecom-churn?datasetId=567482
+Link Dataset  : https://www.kaggle.com/datasets/barun2104/telecom-churn?datasetId=567482
 
-Problem: classification
+Problem       : classification
 
-Final Model: Random Forest
+Final Model   : Random Forest
 
 Link Repositori: https://github.com/FaldoFajri/final-project-kelompok-08--Rachmadio-Noval-L.git
 
-Link PPT: <link presentasi dalam google slides> 
+Link PPT      : <link presentasi dalam google slides> 
