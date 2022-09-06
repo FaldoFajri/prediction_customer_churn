@@ -1,7 +1,5 @@
 # Prediction Customer Churn using Machine Learning
-Final Project Machine Learning
-
-# Final Project Kelompok 08
+Final Project Machine Learning Kelompok 08
 Anggota Kelompok:
 - Annisa Dewi Kusuma Wardani
 - Faldo Fajri Afrinanto
