@@ -1,4 +1,4 @@
-# final-project-kelompok-08--Rachmadio-Noval-L
+# Prediction Customer Churn using Machine Learning
 Final Project Machine Learning
 
 # Final Project Kelompok 08
